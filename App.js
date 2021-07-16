@@ -18,7 +18,7 @@ function App() {
       <Stack.Navigator screenOptions={{
       headerShown: false
     }}>
-        <Stack.Screen name="Home" component={Home} options={{ title: 'Gallery' }} />
+        <Stack.Screen name="Home" component={Home}/>
         <Stack.Screen name="FullViewImage" component={FullViewImage} />
       </Stack.Navigator>
     </NavigationContainer>
