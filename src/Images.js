@@ -1,0 +1,16 @@
+export default images = [
+    { url: require('../assets/image1.jpg') },
+    { url: require('../assets/image2.jpg') },
+    { url: require('../assets/image3.jpg') },
+    { url: require('../assets/image4.jpg') },
+    { url: require('../assets/image5.jpg') },
+    { url: require('../assets/image6.jpg') },
+    { url: require('../assets/image7.jpg') },
+    { url: require('../assets/image8.jpg') },
+    { url: require('../assets/image9.jpg') },
+    { url: require('../assets/image10.jpg') },
+    { url: require('../assets/image11.jpg') },
+    { url: require('../assets/image12.jpg') },
+    { url: require('../assets/image13.jpg') },
+    { url: require('../assets/image1.jpg') },
+]
